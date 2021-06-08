@@ -20,6 +20,7 @@ function NavBar() {
             
                 <div  style={linkCss}><Link to="/">ToDo-With-D&D</Link></div>
                 <div style={linkCss} ><Link to="/slider">Slider</Link></div>
+                <div style={linkCss} ><Link to="/image-popup">Image Popup Effect</Link></div>
             
         </div>
     )
